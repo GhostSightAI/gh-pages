@@ -90,4 +90,3 @@ def get_ib_mouse_helper(dll_path=None) -> IbMouseHelper:
     if _mouse_helper_instance is None:
         _mouse_helper_instance = IbMouseHelper(dll_path) if dll_path else IbMouseHelper()
     return _mouse_helper_instance   
-#end of file
