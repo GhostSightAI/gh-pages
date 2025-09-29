@@ -2,9 +2,9 @@
   "version": "1.0.1",
   "files": {
     "lib/mouse/ib_mouse_helper.py": {
-      "url": "https://ghostsightai.github.io/gh-pages/updates/v1.0.1/files/lib/mouse/ib_mouse_helper.py",
-      "hash": "sha256:0991b97b2ea5e2b7df00d56d67712e95b41cb9a70ee3bdf9a1793ba58ed8d300",
-      "size": 3033
+      "url": "https://ghostsightai.github.io/gh-pages/updates/1.0.1/files/lib/mouse/ib_mouse_helper.py",
+      "hash": "sha256:33129ee7b2d8c6d20bc1087bc0ec873d9a38eccccd24ce202f80b14494c78fd5",
+      "size": 3037
     }
   }
 }
